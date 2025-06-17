@@ -18,7 +18,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /><br />Java
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" /><br />Kotlin
+      <img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" width="40" alt="ClickHouse" /><br />ClickHouse
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" /><br />Spring
